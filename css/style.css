@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: arial;
+
+}
+
+
+.v_lr {
+    font-size: 20px;
+    color: gray;
+    font-weight: 800;
+    writing-mode: vertical-lr;
+    width: 80px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+.v_rl_t {
+    font-size: 20px;
+    color: red;
+    font-weight: 900;
+    writing-mode: sideways-lr;
+    width: 80px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+.h_tb {
+    font-size: 10px;
+    color: black;
+    font-weight: normal;
+    writing-mode: horaizontal-tb;
+    width: 110px;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+
+}
+
+
+.v_rl {
+    font-size: 20px;
+    color: red;
+    font-weight: 900;
+    writing-mode: vertical-rl;
+    width: 80px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+
+}
